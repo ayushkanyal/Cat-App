@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+.lists {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.5rem;
+}
+.container img{
+    
+    width:35%;
+
+}
+.container {
+    margin-left: 25%;
+}
+figcaption {
+    padding-right: 125px;
+}
+form {
+    padding: 1rem;
+    width: 50%;
+    margin-inline: auto;
+    margin-bottom: 10px;
+}
+.form-title{
+    position: relative;
+    left: 14px ;
+    bottom: 26px;
+    background-color: white;
+
+}
